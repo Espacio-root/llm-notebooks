@@ -2,3 +2,4 @@
 .jukit/
 *.py
 docs/vectorstores/
+5_transformer_from_scratch.ipynb
